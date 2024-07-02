@@ -1,0 +1,1069 @@
+@media (max-width: 1200px){
+
+}
+/* @media (max-width: 1200px) { 
+    стили для экранов от 1200px и выше
+    p{
+        font-size: 18px;
+    }
+    .main-content{
+        top: 3%;
+        left: 50%;
+        width: 700px;
+    }
+    .main-description{
+        margin: 40px 0 55px;
+    }
+    .main-container{
+        padding: 100px 0 40px;
+        width: 80%;
+    }
+    .secondary-description{
+        font-size: 20px;
+    }
+    .project .main-container{
+        padding: 60px 0 140px;
+    }
+    .project-box{
+        margin-top: 80px;
+    }
+    .project-img{
+        width: 700px;
+    }
+    .form-container{
+        width: 92%;
+    }
+    .footer h4{
+        font-size: 24px;
+    }
+    .footer .social i{
+        font-size: 30px;
+    }
+    
+} */
+/* @media (min-width: 1024px) { 
+    стили для экранов больше 1024px
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .header-logo img {
+        width: 54px;
+        height: 55px;
+        border: 4px solid 
+    }
+    .header-logo .online {
+        bottom: 10px;
+        right: 13px;
+        border: 2px solid;
+    }
+    .header-logo-title{
+        padding: 10px;
+    }
+    .header-logo-title a{
+        font-size: 16px;
+    }
+    .align{
+        margin: auto;
+    }
+    .main {
+        height: auto;
+    }
+    .main-container{
+        padding: 100px 0 50px;
+    }
+    .main-title{
+        font-size: 38px;
+    }
+    .main-description{
+        font-size: 22px;
+        margin: 30px 0 45px;
+    }
+    .main-content .btn {
+        width: 250px;
+        height: 60px;
+        font-size: 20px;
+    }
+    .main-content{
+        left: 50%;
+    }
+    .main-content .btn a {
+        padding: 20px 50px;
+    }
+    .header-link a {
+        width: 110px;
+        font-size: 16px;
+    }
+    .secondary-description{
+        font-size: 20px;
+    }
+    .current-skils .skil{
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .project-box{
+        margin: 60px auto 90px;
+    }
+    .project .main-container{
+        padding: 50px 0 0;
+        width: 87%;
+    }
+    .project .secondary-description{
+        margin-bottom: 30px;
+    }
+    /* .form-container{
+        width: 700px;
+        padding: 35px;
+    } */
+    /* .form-container input{
+        margin-bottom: 20px;
+    }
+    .form-container label{
+        font-size: 15px;
+    }
+    .form-container 
+    input::placeholder{
+        font-size: 14px;
+    }
+    textarea::placeholder {
+        font-size: 16px;
+    }
+    .form-container textarea {
+        height: 250px;
+        margin-bottom: 20px
+    }
+    .footer .main-container{
+        padding: 50px 0 50px;
+    }
+    .footer .footer-content h4{
+        font-size: 20px;
+    }
+    .footer-description{
+        margin-right: 300px;
+    }
+    .footer-description p{
+        max-width: 500px;
+        font-size: 16px;
+    }
+}  */
+/* @media (max-width: 1024px) { 
+    стили для экранов до 1024px
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .header-logo img {
+        width: 54px;
+        height: 55px;
+        border: 4px solid 
+    }
+    .header-logo .online {
+        bottom: 10px;
+        right: 13px;
+        border: 2px solid;
+    }
+    .header-logo-title{
+        padding: 8px;
+    }
+    .header-logo-title a{
+        font-size: 15px;
+    }
+    .align{
+        margin: auto;
+    }
+    .main {
+        height: auto;
+    }
+    .main-container{
+        padding: 100px 0 50px;
+    }
+    .main-title{
+        font-size: 34px;
+    }
+    .main-description{
+        font-size: 18px;
+    }
+    .main-content .btn {
+        width: 250px;
+        height: 60px;
+        font-size: 20px;
+    }
+    .main-content{
+        left: 40%;
+        width: 600px;
+    }
+    .main-content .btn a {
+        padding: 20px 50px;
+    }
+    .header-link a {
+        width: 90px;
+        font-size: 15px;
+    }
+    .secondary-description{
+        font-size: 20px;
+    }
+    .current-skils .skil{
+        font-size: 15px;
+    }
+    .project-box{
+        margin: 60px auto 90px;
+    }
+    .project .main-container{
+        padding: 50px 0 0;
+        width: 87%;
+    }
+    .project .secondary-description{
+        margin-bottom: 30px;
+    }
+    .form-container{
+        width: 700px;
+        padding: 35px;
+    }
+    .form-container input{
+        margin-bottom: 20px;
+    }
+    .form-container label{
+        font-size: 15px;
+    }
+    .form-container 
+    input::placeholder{
+        font-size: 14px;
+    }
+    textarea::placeholder {
+        font-size: 16px;
+    }
+    .form-container textarea {
+        height: 150px;
+        margin-bottom: 20px
+    }
+    .footer .main-container{
+        padding: 50px 0 50px;
+    }
+    .footer .footer-content{
+        justify-content: space-around;
+    }
+    .footer .footer-content h4{
+        font-size: 18px;
+    }
+    .footer-description{
+        margin-right: 0px;
+    }
+    .footer-description p{
+        max-width: 500px;
+        font-size: 16px;
+    }
+} */
+/* @media (max-width: 950px) { 
+    стили для экранов до 768px
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    .header-links {
+        display: none;
+        flex-direction: column;
+        gap: 10px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: none;
+        border-radius: 10px;
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        right: 0;
+        padding: 40px 0px;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+    .header-link a{
+        background-color: #fff;
+        width: 100px;
+    }
+    .header-links.active {
+        display: flex;
+        opacity: 1;
+        visibility: visible;
+        z-index: 1;
+    }
+    .burger-menu {
+        display: block;
+        margin-top: -65px;
+        width: 55px;
+        height: 38px;
+    }
+    .burger-menu i {
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+        font-size: 24px;
+    }
+    .burger-menu .fa-bars {
+        margin-top: 7px;
+    }
+    .burger-menu.open #burger-icon {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .burger-menu.open #close-icon {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+    }
+    .main{
+        position: relative;
+        height: 100vh;
+    }
+    .main-title{
+        font-size: 30px
+    }
+    .main-container {
+        max-width: 768px;
+        padding: 100px 0 0;
+    }
+    .main-content{
+        top: 39%;
+        width: 80%;
+        left: 50%;
+    }
+    .main-description{
+        font-size: 20px;
+    }
+    .hide{
+        display: none;
+    }
+    .secondary-description {
+        font-size: 20px;
+    }
+    .align{
+        display: block;
+        margin: 0;
+    }
+    .about-me{
+        width: auto;
+        text-align: justify;
+    }
+    .about-skils {
+        width: auto;
+        text-align: justify;
+        margin-left: 0;
+    }
+    .description{
+        margin: 20px 0 40px 0;
+    }
+    .current-skils{
+        margin-top: 30px;
+    }
+    .current-skils .skil {
+        margin: 0 27px 20px 0;
+    }
+    .project .main-container{
+        padding: 20px 0 50px;
+    }
+    .project-box{
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+    .project-title{
+        margin: 20px 0;
+    }
+    .project-description{
+        width: auto;
+        margin-top: 30px;
+    }
+    .project-img{
+        width: auto;
+        margin: 0 auto;
+    }
+    .contact .main-container{
+        width: 100%;
+    }
+    .form-container{
+        width: auto;
+    }
+    .contact .btn{
+        width: 170px;
+    }
+    .footer-content {
+        flex-direction: column;
+    }
+    .footer p{
+        font-size: 16px;
+    }
+    .footer-description{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .footer-description p{
+        width: auto;
+        margin-bottom: 27px;
+    }
+    .footer .social h4{
+        display: none;
+    }
+    .copyright {
+        margin: 60px auto 0;
+    }
+} */
+/* @media (min-width: 480px) and (max-width: 650px){ 
+    стили для экранов от 480px и выше
+    h2{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 22px;
+    }
+    .cover{
+        border-radius: 0;
+    }
+    .align{
+        margin: 0 auto;
+    }
+    .header-logo-title{
+        display: none;
+    }
+    .burger-menu{
+        width: 47px;
+        height: 37px;
+        margin-top: -70px;
+    }
+    .burger-menu.open .fa-xmark{
+        font-size: 28px;
+        margin-top: -30px;
+    }
+    .burger-menu .fa-bars{
+        font-size: 25px;
+        margin-top: 7px;
+    }
+    .main-title{
+        font-size: 28px;
+    }
+    .main-description{
+        font-size: 19px;
+    }
+    .main-content .btn {
+        width: 250px;
+        height: 60px;
+        font-size: 18px;
+    }
+    .main-content .btn a {
+        padding: 20px 41px;
+    }
+    .project .secondary-description{
+        width: auto;
+        margin: 20px 20px 0;
+    }
+    .main-container{
+        padding: 70px 0;
+        width: 85%;
+    }
+    .about .main-container{
+        padding: 75px 0 25px;
+    }
+    .project-box{
+        margin: 50px auto 60px;
+    }
+    .project-description{
+        width: auto;
+        margin: 35px 0 0;
+    }
+    .project .btn{
+        width: 300px;
+    }
+    .form-container{
+       border-radius: 0;
+    }
+    .contact{
+        border-radius: 0;
+    }
+    .footer{
+        border-radius: 0;
+    }
+} */
+/* @media (max-width: 479px) { 
+    стили для экранов до 479px
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .main-title{
+        font-size: 22px;
+    }
+    .main-description {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 8px 8px;
+        margin: 40px 0 40px;
+      
+    }
+    .header .main-content{
+        width: 91%;
+    }
+    .secondary-description{
+        font-size: 18px;
+    }
+    .btn{
+        width: 270px;
+    }
+    .cover{
+        border-radius: 0;
+    }
+    .burger-menu {
+        width: 40px;
+        height: 35px;
+        margin-top: -70px;
+    }
+    .header-logo img {
+        width: 50px;
+        height: 50px;
+        border: 4px solid;
+    }
+    .burger-menu .fa-bars {
+        margin-top: 7px;
+        font-size: 20px;
+    }
+    .burger-menu .fa-xmark {
+        margin-top: -25px;
+    }
+    .header-logo-title{
+        display: none;
+    }
+    .main-content .btn {
+        width: 180px;
+        height: 50px;
+        font-size: 17px;     
+    }
+    .main-content .btn a{
+        padding: 16px 32px;
+    }
+    .align{
+        margin: 0 auto;
+    }
+    .main-container{
+        width: 85%;
+        padding: 60px 0 20px;
+    }
+    .about .secondary-description{
+        margin: 20px auto 40px;
+    }
+    .current-skils .skil {
+        margin: 0 15px 20px 0;
+    }
+    .line-box {
+        width: 100%;
+        height: 65px;
+    }
+    .project .main-container {
+        padding: 20px 0 0px;
+    }
+    .project-title{
+        margin: 10px 0 20px;
+    }
+    .project .secondary-description{
+        margin: 20px auto 40px;
+    }
+    .project-box {
+        margin: 0px auto 90px;
+    }
+    .contact{
+        border-radius: 0;
+        margin-top: 70px;
+    }
+    .contact .btn{
+        width: 270px;
+        margin: 0 auto 20px;
+    }
+    .contact .secondary-description{
+        width: 92%;
+    }
+    .contact .main-container{
+        width: 100%;
+        padding: 60px 0 0;
+    }
+    .form-container{
+        border-radius: 0;
+        padding: 25px;
+    }
+    .footer{
+        border-radius: 0;
+    }
+    .footer .main-container{
+        padding: 50px 0 20px;
+    }
+    .footer .social a{
+        margin: 0 7px;
+    }
+    .copyright{
+        font-size: 13px
+    }
+    .footer p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+} */
+/* @media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 389px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+    .main-title{
+        font-size: 18px;
+    }
+    .main-description {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .secondary-description{
+        font-size: 17px;
+    }
+    .footer p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+} */
+/* @media (max-width: 320px){
+    p{
+        font-size: 16px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    h4{
+        font-size: 17px;
+    }
+    .main-title{
+        font-size: 20px;
+    }
+    .main-description{
+        font-size: 16px;
+        line-height: 26px;
+        padding: 8px 4px;
+    }
+    .about .secondary-description{
+        text-align: justify;
+    }
+    .description{
+        line-height: 23px;
+    }
+    .burger-menu .fa-xmark {
+        margin-top: -26px;
+    }
+    .main-content .btn a {
+        padding: 17px 28px;
+    } 
+    .secondary-description{
+        font-size: 16px;
+        margin: 20px auto 40px;
+    }
+    .project-description {
+        width: auto;
+        margin: 20px 0 0;
+    }
+    .footer p{
+        font-size: 15px;
+    }
+} */
+
+@media (max-width: 1200px){
+    label{
+        font-size: 16px;
+    }
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .header-logo img {
+        width: 54px;
+        height: 55px;
+        border: 4px solid 
+    }
+    .header-logo .online {
+        bottom: 10px;
+        right: 13px;
+        border: 2px solid;
+    }
+    .header-logo-title{
+        padding: 8px;
+    }
+    .header-logo-title a{
+        font-size: 15px;
+    }
+    .align{
+        margin: auto;
+    }
+    .main-title{
+        font-size: 34px;
+    }
+    .main-description{
+        font-size: 20px;
+    }
+    .main-content .btn {
+        width: 250px;
+        height: 60px;
+        font-size: 20px;
+    }
+    .main-content{
+        width: 800px;
+    }
+    .main-content .btn a {
+        padding: 20px 50px;
+    }
+    .header-link a {
+        width: 90px;
+        font-size: 15px;
+    }
+    .current-skils .skil{
+        font-size: 18px;
+    }
+    .project-box{
+        margin: 60px auto 90px;
+    }
+    .project .main-container{
+        width: 87%;
+    }
+    .form-container{
+        width: 800px;
+        padding: 35px;
+    }
+    .form-container input{
+        margin-bottom: 20px;
+    }
+    .form-container 
+    input::placeholder{
+        font-size: 15px;
+    }
+    textarea::placeholder {
+        font-size: 17px;
+    }
+    .footer .footer-content{
+        justify-content: space-around;
+    }
+    .footer-description{
+        margin-right: 0px;
+    }
+    .footer .social i{
+        font-size: 28px;
+        margin-right: 15px;
+    }
+    .footer-description p{
+        max-width: 500px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 992px){
+    h2{
+        font-size: 28px;
+    }
+    h3{
+        font-size: 22px;
+    }
+    .header-links {
+        display: none;
+        flex-direction: column;
+        gap: 25px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: none;
+        border-radius: 10px;
+        position: absolute;
+        top: 5%;
+        left: 0;
+        right: 0;
+        padding: 70px 0px;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+    .header-link a{
+        background-color: #fff;
+        width: 150px;
+        margin-left: 0;
+        font-size: 16px;
+        padding: 15px;
+    }
+    .header-links.active {
+        display: flex;
+        opacity: 1;
+        visibility: visible;
+        z-index: 1;
+    }
+    .burger-menu {
+        display: block;
+        width: 55px;
+        height: 38px;
+        margin-top: auto;
+    }
+    .burger-menu i {
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+        font-size: 24px;
+    }
+    .burger-menu .fa-bars {
+        margin-top: 7px;
+    }
+    .burger-menu.open #burger-icon {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .burger-menu.open #close-icon {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+    }
+    .main-content{
+        width: 80%;
+        margin-top: 140px;
+    }
+    .main-title{
+        font-size: 34px;
+    }
+    /* .hide{
+        display: none;
+    } */
+    .align{
+        display: block;
+        margin: 0;
+    }
+    .about-skils {
+        width: auto;
+        margin-left: 0;
+    }
+    .description{
+        margin: 20px 0 40px 0;
+    }
+    .current-skils{
+        margin-top: 0px;
+    }
+    .project-box{
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+    .project-description{
+        width: auto;
+        margin-top: 30px;
+    }
+    .project-img{
+        width: auto;
+        margin: 0 auto;
+    }
+    .contact .main-container{
+        width: 100%;
+    }
+    .form-container{
+        width: auto;
+        border-radius: 0;
+    }
+    .footer-content {
+        flex-direction: column;
+    }
+    .footer p{
+        font-size: 16px;
+    }
+    .footer-description{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .footer-description p{
+        width: auto;
+        margin-bottom: 50px;
+    }
+    .footer .social h4{
+        display: none;
+    }
+    .copyright {
+        margin: 60px auto 0;
+    }
+}
+@media (max-width: 768px){
+    h2{
+        font-size: 26px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .main-content {
+        margin-top: 22%;
+    }
+    .main-container{
+        width: 86%;
+    }
+    .header-logo-title{
+        display: none;
+    }
+    .burger-menu{
+        margin-right: 0;
+        width: 47px;
+        height: 37px;
+    }
+    .main-title{
+        font-size: 28px;
+    }
+    .main-description{
+        font-size: 20px;
+    }
+    .secondary-description{
+        font-size: 19px;
+    }
+    .cover{
+        border-radius: 0;
+    }
+    .footer{
+        border-radius: 0;
+    }
+    .about{
+        padding-top: 70px;
+    }
+    .project{
+        padding: 0 0 40px;
+    }
+    .contact{
+        border-radius: 0;
+        padding-top: 50px;
+    }
+    .contact .secondary-description{
+        width: 86%;
+    }
+    .footer{
+        padding-top: 70px;
+    }
+    .footer-description p{
+        margin-bottom: 40px;
+    }
+    .footer .social i{
+        margin: 0 10px;
+    }
+    .copyright{
+        margin: 40px auto 0;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .mobile-hide {
+        display: none !important;
+    }
+}
+@media (max-width: 480px){
+    p{
+        font-size: 17px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    label{
+        font-size: 16px;
+    }
+    .main-description > br{
+        display: none;
+    }
+    .main-content .btn {
+        width: 230px;
+        height: 55px;
+        font-size: 19px;
+        }
+    .main-content .btn a{
+        padding: 15px 39px;
+    }
+    .secondary-description{
+        font-size: 18px;
+    }
+    .btn i{
+        font-size: 18px;
+    }
+    .line-box{
+        opacity: 0;
+        margin-bottom: -35px;
+    }
+    .form-container 
+    input::placeholder{
+        font-size: 15px;
+    }
+    textarea::placeholder {
+        font-size: 17px;
+    }
+    .copyright{
+        font-size: 14px;
+    }
+}
+@media (min-width: 320px) and (max-width: 375px){
+    .header-logo img {
+        width: 50px;
+        height: 50px;
+    }
+    .header-content{
+        padding: 35px 30px 0;
+    }
+    .header-links{
+        top: 3%;
+    }
+    .burger-menu {
+        margin-right: 0;
+        width: 40px;
+        height: 35px;
+    }
+    .burger-menu i{
+        font-size: 22px;
+    }
+    .burger-menu .fa-xmark {
+        margin-top: -29px;
+    }
+    .burger-menu .fa-xmark {
+        font-size: 28px;
+    }
+    .main-content{
+        margin-top: 20%;
+    }
+    .main-title{
+        font-size: 20px;
+        padding: 10px;
+    }
+    .main-content .btn {
+        width: 200px;
+        height: 50px;
+        font-size: 18px;
+    }
+    .main-description{
+        font-size: 17px;
+        padding: 10px;
+    }
+    .secondary-description{
+        font-size: 17px;
+    }
+    .current-skils .skil{
+        font-size: 16px;
+    }
+}
+/* 320 - 480 мob */
+/* 320 -768 */
+/* 768 - 992 */
+/* min 992+ */
+/* min 1200+ */
