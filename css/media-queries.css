@@ -1,5 +1,5 @@
 @media (max-width: 1200px){
-
+    
 }
 /* @media (max-width: 1200px) { 
     стили для экранов от 1200px и выше
@@ -973,17 +973,13 @@
     }
 }
 @media (max-width: 480px){
-    .cover {
-        max-width: 480px;
-        height: 600px;
-        background-image: url('../img/mobile-v.png');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-        background-attachment: fixed;
-        justify-content: center;
-        align-items: center;
-    }
+    .header {
+        background-image: url('../img/mobile-bg.png'); /* Замените на путь к мобильному изображению */
+        background-attachment: scroll; /* Изменяем background-attachment для мобильных устройств */
+        border-radius: 0; /* Удаление закругленных углов для мобильных устройств */
+        background-color: #333; /* Проверка фона */
+        border: 2px solid red; /* Проверка границы */
+      }
     p{
         font-size: 17px;
     }
