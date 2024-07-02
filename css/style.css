@@ -51,6 +51,17 @@ content: "";
 blockquote, q {
 quotes: "" "";
 }
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    background-color: #fff;
+}
+::-webkit-scrollbar-thumb{
+    background: rgb(71,24,162);
+    background: linear-gradient(270deg, rgba(71,24,162,1) 0%, rgba(77,71,193,1) 35%, rgba(45,139,236,1) 100%);
+    border-radius: 8px;
+}
 label{
     font-size: 18px;
 }
@@ -207,11 +218,11 @@ p{
     display: none;
 }
 .main-content{
-    width: 900px;
+    width:60%;
     margin: 160px auto;
 }
 .main-title{
-    font-size: 40px;
+    font-size: 42px;
     text-transform: uppercase;
     letter-spacing: 3px;
     text-align: center;
@@ -306,9 +317,10 @@ p{
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-top: 100px;
 }
 .project{
-    padding: 50px 0 100px;
+    padding: 0 0 100px;
 }
 .project-box{
     display: flex;
