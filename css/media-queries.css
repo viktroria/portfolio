@@ -980,8 +980,6 @@
         background-image: url('../img/mobile-v.png'); /* Замените на путь к мобильному изображению */
         background-attachment: scroll; /*  Изменяем background-attachment для мобильных устройств */
         border-radius: 0; /* Удаление закругленных углов для мобильных устройств */
-        background-color: #333; /* Проверка фона */
-        border: 2px solid red; /* Проверка границы */
       }
     p{
         font-size: 17px;
