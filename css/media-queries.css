@@ -1013,7 +1013,8 @@
     }
     .line-box{
         opacity: 0;
-        margin-bottom: -35px;
+        margin-bottom: -30px;
+        height: 0;
     }
     .form-container 
     input::placeholder{
