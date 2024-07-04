@@ -99,6 +99,9 @@
     h3{
         font-size: 22px;
     }
+    .cover{
+        max-height: 55rem;
+    }
     .header-links {
         display: none;
         flex-direction: column;
