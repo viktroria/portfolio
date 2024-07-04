@@ -95,30 +95,31 @@ p{
 #link:active {
 	color: #fff;
 }
-
 .cover {
     background-image: url('../img/bg.png');
-    width: 100%;
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    box-sizing: border-box;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
     border-radius: 0 0 250px 0;
-}
+  }
 .header{
     width: 100%;
 }
-.header-content{
+.header-content {
+    width: 100%;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    padding: 35px 50px 0;
-}
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }
 .header-logo{
     display: flex;
     align-items: center;
@@ -145,7 +146,7 @@ p{
     position: absolute;
     bottom: 12px;
     right: 16px;
-    border: 3px solid;
+    border: 3px solid #fff;
 }
 .header-logo-title{
     font-weight: 700;
@@ -183,6 +184,7 @@ p{
     color: #1D5288;
     transition: 0.3s ease;
     margin-left: 20px;
+    text-align: center;
 }
 .header-link a:hover{
     background-color: #fff;
@@ -196,6 +198,7 @@ p{
     background-color: rgba(255, 255, 255, 0.8);
     border: none;
     display: none;
+    text-align: center;
 }
 .burger-menu i{
     color: #1D5288;
@@ -217,9 +220,15 @@ p{
 .hide{
     display: none;
 }
+.main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
 .main-content{
-    width:60%;
-    margin: 160px auto;
+    align-items: center;
 }
 .main-title{
     font-size: 42px;

@@ -22,7 +22,6 @@
     .header-logo .online {
         bottom: 10px;
         right: 13px;
-        border: 2px solid;
     }
     .header-logo-title{
         padding: 8px;
@@ -45,7 +44,8 @@
         font-size: 20px;
     }
     .main-content{
-        width: 800px;
+        width:50%;
+        /* margin: 70px auto; */
     }
     .main-content .btn a {
         padding: 20px 50px;
@@ -117,6 +117,7 @@
         opacity: 0;
         visibility: hidden;
         transition: opacity 0.3s ease, visibility 0.3s ease;
+        text-align: center;
     }
     .header-link a{
         background-color: #fff;
@@ -159,7 +160,7 @@
     }
     .main-content{
         width: 80%;
-        margin-top: 140px;
+        /* margin-top: 140px; */
     }
     .main-title{
         font-size: 34px;
@@ -232,7 +233,7 @@
         font-size: 20px;
     }
     .main-content {
-        margin-top: 23%;
+        /* margin-top: 23%; */
     }
     .main-container{
         width: 86%;
@@ -314,7 +315,7 @@
         font-size: 24px;
     }
     .main-description{
-        font-size: 18px;
+        font-size: 20px;
     }
     .main-content .btn {
         width: 230px;
@@ -371,7 +372,7 @@
         font-size: 28px;
     }
     .main-content{
-        margin-top: 20%;
+        /* margin-top: 20%; */
     }
     .main-title{
         font-size: 22px;
