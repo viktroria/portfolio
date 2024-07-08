@@ -96,7 +96,8 @@ p{
 	color: #fff;
 }
 .cover {
-    background-image: url('../img/bg.png');
+    /* background-image: url('../img/bg.png'); */
+    background-color: #06e506;
     display: flex;
     flex-direction: column;
     justify-content: center;
