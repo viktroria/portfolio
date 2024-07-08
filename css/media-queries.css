@@ -1,4 +1,7 @@
 @media (min-width: 1024px) and (max-width: 1200px){
+    body{
+        zoom: 0.75;
+    }
     label{
         font-size: 16px;
     }
