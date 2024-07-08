@@ -98,9 +98,20 @@
         font-size: 16px;
     }
 }
+@media only screen and (min-device-pixel-ratio: 2) {
+    body {
+      zoom: 0.75; /* Масштаб 75% */
+    }
+  }
+  @media only screen and (min-width: 1024px) and (min-device-pixel-ratio: 2) {
+    body {
+      zoom: 0.75; /* Масштаб 75% */
+    }
+  }
 @media (max-width: 992px){
     body{
-        zoom: 0.75;
+        transform: scale(0.75);
+    transform-origin: 0 0; /* Масштаб 75% */
     }
     h2{
         font-size: 28px;
