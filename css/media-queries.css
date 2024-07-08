@@ -1,6 +1,14 @@
 @media only screen and (min-device-pixel-ratio: 2) {
     body {
-      zoom: 0.75; /* Масштаб 75% */
+      transform: scale(0.75);
+      transform-origin: 0 0; /* Масштаб 75% */
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) and (min-device-pixel-ratio: 2) {
+    body {
+      transform: scale(0.75);
+      transform-origin: 0 0; /* Масштаб 75% */
     }
   }
 @media (min-width: 1024px) and (max-width: 1200px){
