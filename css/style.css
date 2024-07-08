@@ -76,7 +76,7 @@ h3{
     text-transform: uppercase;
 }
 h4{ 
-    font-size: 25px;
+    font-size: 24px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -96,8 +96,7 @@ p{
 	color: #fff;
 }
 .cover {
-    /* background-image: url('../img/bg.png'); */
-    background-color: #0B63F6;
+    background-image: url('../img/bg.png');
     display: flex;
     flex-direction: column;
     justify-content: center;
