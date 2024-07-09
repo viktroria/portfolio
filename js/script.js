@@ -37,10 +37,18 @@ let backToTopButton = document.getElementById("backToTop");
         document.documentElement.scrollTop = 0;
     }
 
-    // Дополнительная проверка при загрузке страницы
     document.addEventListener("DOMContentLoaded", function() {
         if (window.innerWidth <= 480) {
             backToTopButton.style.display = "none";
         }
+    });
+
+    document.querySelectorAll('input, textarea').forEach(element => {
+        element.addEventListener('focus', (event) => {
+            document.body.style.zoom = 'reset';
+        });
+        element.addEventListener('blur', (event) => {
+            document.body.style.zoom = '';
+        });
     });
 
