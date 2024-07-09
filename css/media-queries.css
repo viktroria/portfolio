@@ -347,6 +347,9 @@
     textarea::placeholder {
         font-size: 17px;
     }
+    .button-container .btn{
+        margin: 0 auto;
+    }
     .copyright{
         font-size: 14px;
     }
@@ -398,6 +401,9 @@
     }
     .project .secondary-description{
         margin: 20px auto 50px;
+    }
+    .button-container .btn{
+        margin: 0 auto;
     }
 }
 /* 320 - 480 мob */
