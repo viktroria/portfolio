@@ -113,11 +113,11 @@ p{
     width: 100%;
 }
 .header-content {
-    width: 100%;
+    width: 95%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 30px 0 0;
     box-sizing: border-box;
   }
 .header-logo{
@@ -127,8 +127,8 @@ p{
     transition: color .3s;
 }
 .header-logo img{
-    width: 4rem;
-    height: 4rem;
+    width: 3.5rem;
+    height: 3.5rem;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 10px;
