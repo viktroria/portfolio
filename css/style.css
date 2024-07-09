@@ -322,7 +322,7 @@ p{
 .project-box{
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .project-img{
     width: 750px;
@@ -377,7 +377,6 @@ p{
     background: linear-gradient(270deg, rgba(71,24,162,1) 0%, rgba(77,71,193,1) 35%, rgba(45,139,236,1) 100%);
     color: #fff;
     border-radius: 100px 0 0 0;
-    padding-top: 100px 0 50;
 }
 .form-container{
     margin: 0 auto;
