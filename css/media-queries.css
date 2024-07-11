@@ -323,6 +323,13 @@
         height: 50px;
         border: 3px solid #fff;
     }
+    .burger-menu {
+        width: 40px;
+        height: 35px;
+    }
+    .burger-menu .fa-bars{
+        font-size: 22px
+    }
     .main-title{
         font-size: 24px;
     }
