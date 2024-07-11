@@ -283,7 +283,7 @@ p{
     margin: 0 100px;
 }
 .about{
-    padding: 100px 0 100px;
+    padding: 100px 0 0;
 }
 .about-me{
     max-width: 960px;
@@ -317,7 +317,7 @@ p{
     font-weight: bold;
 }
 .project{
-    padding: 0 0 100px;
+    padding: 100px 0 100px;
 }
 .project-box{
     display: flex;

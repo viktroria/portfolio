@@ -3,17 +3,26 @@ document.addEventListener('DOMContentLoaded', () => {
     const headerLinks = document.getElementById('header-links');
     const mainContentMobile = document.getElementsByClassName('main-mobile')[0];
 
-    console.log(mainContentMobile)
+    console.log('mainContentMobile:', mainContentMobile);
 
     burgerMenu.addEventListener('click', () => {
         const isMenuOpen = headerLinks.classList.toggle('active');
         burgerMenu.classList.toggle('open', isMenuOpen);
 
-        if(isMenuOpen){
+        if (isMenuOpen) {
             mainContentMobile.classList.add('hide');
-        }else{
+        } else {
             mainContentMobile.classList.remove('hide');
         }
+    });
+
+    const links = document.querySelectorAll('.header-link');
+    links.forEach(link => {
+        link.addEventListener('click', () => {
+            headerLinks.classList.remove('active');
+            burgerMenu.classList.remove('open');
+            mainContentMobile.classList.remove('hide');
+        });
     });
 });
 
