@@ -152,7 +152,7 @@ p{
     font-weight: 700;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
-    padding: 8px 10px;  
+    padding: 6px 10px;  
     display: inline-block;
     font-size: 16px;
     text-transform: uppercase;
@@ -163,7 +163,6 @@ p{
 }
 .header-logo-title a{
     color: #1D5288;
-    padding: 10px;
 }
 .header-logo-title:hover{
     background-color: #fff;
