@@ -304,7 +304,7 @@
 }
 @media (max-width: 480px){
     .cover {
-        background-image: url('../img/mobile-v.png'); 
+        background-image: url('../img/mobile-v1.png'); 
         background-attachment: scroll; 
         border-radius: 0; 
       }
